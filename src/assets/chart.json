@@ -1,0 +1,282 @@
+[
+    {
+        "successStatus": "Sent",
+        "createdAt": "2019-08-28T18:23:20.457Z",
+        "status": true,
+        "recipients": 1,
+        "agent": "5af032e6e1bf0c82bfba089b",
+        "dripId": {
+            "_id": "5d66c698573af84d0ad9a881",
+            "title": "test"
+        },
+        "sequenceType": "csv",
+        "sequence": "5d175cc648665f3e700bdf14",
+        "datetime": "2019-08-28T18:23:48.946Z",
+        "time": "",
+        "date": "",
+        "title": "Happiness grows when shared!",
+        "_id": "5d66c698573af84d0ad9a882",
+        "report": {
+            "Sent": 2,
+            "Complaint": 0,
+            "Opened": 1,
+            "Clicked": 0,
+            "Bounced": 0,
+            "Unsubscribe": 0,
+            "reject": 0,
+            "All": 1
+        }
+    },
+    {
+        "successStatus": "Sent",
+        "createdAt": "2019-08-28T18:19:59.332Z",
+        "status": true,
+        "recipients": 1,
+        "agent": "5af032e6e1bf0c82bfba089b",
+        "dripId": {
+            "_id": "5d66c5cf573af84d0ad9a87d",
+            "title": "test"
+        },
+        "sequenceType": "csv",
+        "sequence": "5cab71824e7ef64ec97712ba",
+        "datetime": "2019-08-28T18:20:17.420Z",
+        "time": "",
+        "date": "",
+        "title": "Mortgage Protection",
+        "_id": "5d66c5cf573af84d0ad9a87e",
+        "report": {
+            "Sent": 0,
+            "Complaint": 0,
+            "Opened": 0,
+            "Clicked": 0,
+            "Bounced": 0,
+            "Unsubscribe": 0,
+            "reject": 0,
+            "All": 1
+        }
+    },
+    {
+        "successStatus": "Sent",
+        "createdAt": "2019-08-28T13:32:37.281Z",
+        "status": true,
+        "recipients": 1,
+        "agent": "5af032e6e1bf0c82bfba089b",
+        "dripId": {
+            "_id": "5d668275d49c6e0be78dcb18",
+            "title": "test"
+        },
+        "sequenceType": "csv",
+        "sequence": "5d175cc648665f3e700bdf14",
+        "datetime": "2019-08-28T13:32:12.793Z",
+        "time": "",
+        "date": "",
+        "title": "Review your policy information",
+        "_id": "5d668275d49c6e0be78dcb19",
+        "report": {
+            "Sent": 2,
+            "Complaint": 0,
+            "Opened": 1,
+            "Clicked": 0,
+            "Bounced": 0,
+            "Unsubscribe": 0,
+            "reject": 0,
+            "All": 1
+        }
+    },
+    {
+        "successStatus": "Sent",
+        "createdAt": "2019-08-27T12:46:30.398Z",
+        "status": true,
+        "recipients": 1,
+        "agent": "5af032e6e1bf0c82bfba089b",
+        "dripId": {
+            "_id": "5d6526267db8a23b76bc32eb",
+            "title": "test"
+        },
+        "sequenceType": "csv",
+        "sequence": "5d175cc648665f3e700bdf14",
+        "datetime": "2019-08-27T12:46:55.792Z",
+        "time": "",
+        "date": "",
+        "title": "Checking in",
+        "_id": "5d6526267db8a23b76bc32ec",
+        "report": {
+            "Sent": 2,
+            "Complaint": 0,
+            "Opened": 1,
+            "Clicked": 0,
+            "Bounced": 0,
+            "Unsubscribe": 0,
+            "reject": 0,
+            "All": 1
+        }
+    },
+    {
+        "successStatus": "Sent",
+        "createdAt": "2019-08-27T12:36:39.327Z",
+        "status": true,
+        "recipients": 1,
+        "agent": "5af032e6e1bf0c82bfba089b",
+        "dripId": {
+            "_id": "5d6523d77db8a23b76bc32e7",
+            "title": "test"
+        },
+        "sequenceType": "csv",
+        "sequence": "5d175cc648665f3e700bdf14",
+        "datetime": "2019-08-27T12:36:51.425Z",
+        "time": "",
+        "date": "",
+        "title": "Happiness grows when shared!",
+        "_id": "5d6523d77db8a23b76bc32e8",
+        "report": {
+            "Sent": 2,
+            "Complaint": 0,
+            "Opened": 1,
+            "Clicked": 0,
+            "Bounced": 0,
+            "Unsubscribe": 0,
+            "reject": 0,
+            "All": 1
+        }
+    },
+    {
+        "successStatus": "Sent",
+        "createdAt": "2019-08-10T11:03:54.254Z",
+        "status": true,
+        "recipients": 1,
+        "agent": "5af032e6e1bf0c82bfba089b",
+        "dripId": {
+            "_id": "5d4ea49a697b533143f723f7",
+            "title": "Test Campaign"
+        },
+        "sequenceType": "csv",
+        "sequence": "5d175cc648665f3e700bdf14",
+        "datetime": "2019-08-12T11:03:56.584Z",
+        "time": "04:33PM",
+        "date": "2019-08-12",
+        "title": "Meet VIA !",
+        "_id": "5d4ea49a697b533143f723f8",
+        "report": {
+            "Sent": 1,
+            "Complaint": 0,
+            "Opened": 0,
+            "Clicked": 0,
+            "Bounced": 0,
+            "Unsubscribe": 0,
+            "reject": 0,
+            "All": 1
+        }
+    },
+    {
+        "successStatus": "Sent",
+        "createdAt": "2019-07-02T11:18:44.934Z",
+        "status": true,
+        "recipients": 4,
+        "agent": "5af032e6e1bf0c82bfba089b",
+        "dripId": {
+            "_id": "5d1b3d9436a6b0199dd4595b",
+            "title": "footer test"
+        },
+        "sequenceType": "dealboard",
+        "sequence": "5cb630387a44e7619f043650",
+        "datetime": "2019-07-02T11:20:07.016Z",
+        "time": "",
+        "date": "",
+        "title": "Happy Birthday",
+        "_id": "5d1b3d9436a6b0199dd4595c",
+        "report": {
+            "Sent": 0,
+            "Complaint": 0,
+            "Opened": 0,
+            "Clicked": 0,
+            "Bounced": 0,
+            "Unsubscribe": 0,
+            "reject": 0,
+            "All": 4
+        }
+    },
+    {
+        "successStatus": "Sent",
+        "createdAt": "2019-06-29T12:39:55.448Z",
+        "status": true,
+        "recipients": 1,
+        "agent": "5af032e6e1bf0c82bfba089b",
+        "dripId": {
+            "_id": "5d175c1b36a6b0199dd45954",
+            "title": "test"
+        },
+        "sequenceType": "csv",
+        "sequence": "5d175cc648665f3e700bdf14",
+        "datetime": "2019-06-29T12:42:00.729Z",
+        "time": "",
+        "date": "",
+        "title": "test template single agency sub",
+        "_id": "5d175c1b36a6b0199dd45955",
+        "report": {
+            "Sent": 2,
+            "Complaint": 0,
+            "Opened": 1,
+            "Clicked": 0,
+            "Bounced": 0,
+            "Unsubscribe": 1,
+            "reject": 0,
+            "All": 1
+        }
+    },
+    {
+        "successStatus": "Sent",
+        "createdAt": "2019-06-29T12:32:29.397Z",
+        "status": true,
+        "recipients": 1,
+        "agent": "5af032e6e1bf0c82bfba089b",
+        "dripId": {
+            "_id": "5d175a5d36a6b0199dd45950",
+            "title": "test"
+        },
+        "sequenceType": "csv",
+        "sequence": "5cab71824e7ef64ec97712ba",
+        "datetime": "2019-06-29T12:32:11.791Z",
+        "time": "",
+        "date": "",
+        "title": "Support",
+        "_id": "5d175a5d36a6b0199dd45951",
+        "report": {
+            "Sent": 0,
+            "Complaint": 0,
+            "Opened": 0,
+            "Clicked": 0,
+            "Bounced": 0,
+            "Unsubscribe": 0,
+            "reject": 0,
+            "All": 1
+        }
+    },
+    {
+        "successStatus": "Sent",
+        "createdAt": "2019-06-29T12:14:48.070Z",
+        "status": true,
+        "recipients": 44,
+        "agent": "5af032e6e1bf0c82bfba089b",
+        "dripId": {
+            "_id": "5d17563836a6b0199dd4591e",
+            "title": "mailgun testing 1"
+        },
+        "sequenceType": "csv",
+        "sequence": "5ca5c3bf7f326701ba55f06a",
+        "datetime": "2019-06-29T12:16:20.934Z",
+        "time": "",
+        "date": "",
+        "title": "Happiness grows when shared !",
+        "_id": "5d17563836a6b0199dd4591f",
+        "report": {
+            "Sent": 40,
+            "Complaint": 0,
+            "Opened": 21,
+            "Clicked": 2,
+            "Bounced": 0,
+            "Unsubscribe": 0,
+            "reject": 0,
+            "All": 44
+        }
+    }
+]

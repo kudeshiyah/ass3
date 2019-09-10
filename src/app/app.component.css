@@ -1,0 +1,30 @@
+table {
+    width: 100%;
+    font-size:13px;
+
+  }
+
+  .conatiner{
+    min-width: 100px;
+    background-color:white;
+    min-height: 303px;
+    padding: 1%
+  }
+  
+  th.mat-sort-header-sorted {
+    color:  black;
+  }
+  .mat-cell{
+    max-height: 48px !important;
+    align-items: center !important;
+    /* background: gainsboro !important;
+     */
+}
+.mat-cell,.mat-header-cell {
+  max-height: 48px !important;
+  align-items: center !important;
+  /* background: gainsboro !important; */
+  color: lightslategray;
+  font-family:  "'Helvetica Neue', 'Helvetica', 'Arial', sans-serif" !important;
+}
+
